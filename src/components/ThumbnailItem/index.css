@@ -1,0 +1,20 @@
+/* Write your code here. */
+.tab-item-container {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
+.active-tab-btn {
+  width: 60px;
+  height: 60px;
+  opacity: 1;
+}
+.thumbnail {
+  opacity: 0.5;
+}
